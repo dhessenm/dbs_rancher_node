@@ -1,4 +1,4 @@
-Role Name
+Ansible role: dbs_rancher_node
 =========
 
 Role installs Rancher agent and connect it to Ranger server.
