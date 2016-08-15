@@ -2,7 +2,7 @@
 # defaults file for dbs_rancher_node
 
 # Docker container name
-rancher_agent_name: ranger_agent
+rancher_agent_name: rancher_agent
 
 # Rancher server hostname
 rancher_server: localhost
@@ -11,5 +11,5 @@ rancher_server: localhost
 rancher_port: 8080
 
 # Rancher agent version (not used anymore, we will try latest ...)
-# rancher_agent_version: 1.0.2
+rancher_agent_version: 1.0.2
 
